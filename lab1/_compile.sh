@@ -1,0 +1,1 @@
+g++ main.cpp Person.cpp Professor.cpp Student.cpp -o main
