@@ -1,0 +1,1 @@
+g++ demo_q.cpp queue.cpp -o main
